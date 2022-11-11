@@ -1,0 +1,22 @@
+{
+  "Historical Data": [{
+    "Day End Value": 44140,
+    "Date": "2022-03-26"
+  }],
+    "Securities": [
+        {
+            "Company Name": "SHOP.TO",
+            "Type": "Stock",
+            "Quantity": 10,
+            "Average Price": 6940
+        },
+        {
+            "Company Name": "SPY",
+            "Type": "Option",
+            "Current Value": 5000,
+            "Quantity": 10,
+            "Expiry": "2023-05-26"
+        }
+    ],
+    "Cash Invested": 500
+}

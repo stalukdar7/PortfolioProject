@@ -1,0 +1,34 @@
+{
+    "Historical Data": [
+        {
+            "Day End Value": 508480,
+            "Date": "2022-03-27"
+        },
+        {
+            "Day End Value": 44140,
+            "Date": "2022-03-26"
+        }
+    ],
+    "Securities": [
+        {
+            "Company Name": "SHOP.TO",
+            "Type": "Stock",
+            "Quantity": 10,
+            "Average Price": 6940
+        },
+        {
+            "Company Name": "SPY",
+            "Type": "Option",
+            "Current Value": 5000000,
+            "Quantity": 10,
+            "Expiry": "2023-05-26"
+        },
+        {
+            "Company Name": "AAPL",
+            "Type": "Stock",
+            "Quantity": 50,
+            "Average Price": 160
+        }
+    ],
+    "Cash Invested": 5000
+}
